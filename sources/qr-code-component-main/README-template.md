@@ -1,151 +1,90 @@
-# Frontend Mentor - QR code component solution
+### Liens
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+- URL de la solution : [Ajoutez ici l'URL de votre solution]
+- URL du site en ligne : [Ajoutez ici l'URL de votre site en ligne]
 
-## Table of contents
+## Ma démarche
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+### Outils utilisés
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+- Balisage HTML5 sémantique
+- Propriétés CSS personnalisées
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Approche « mobile-first »
+- [React](https://reactjs.org/) — bibliothèque JavaScript
+- [Next.js](https://nextjs.org/) — framework React
+- [Styled Components](https://styled-components.com/) — pour les styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+**Remarque :** ce sont simplement des exemples. Supprimez cette remarque et remplacez la liste ci-dessus par les technologies et méthodes que vous avez réellement utilisées.
 
-### What I learned
+### Ce que j'ai appris
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Utilisez cette section pour faire le point sur les principales choses que vous avez apprises pendant la réalisation de ce projet.
 
-To see how you can add code snippets, see below:
+Écrire ce que vous avez appris et fournir des exemples de code concernant les parties que vous souhaitez mettre en avant est une excellente façon de renforcer vos connaissances.
+
+Pour voir comment ajouter des extraits de code, consultez les exemples ci-dessous :
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Du code HTML dont je suis fier</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log("🎉");
+};
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Si vous avez besoin d'aide pour rédiger du Markdown, nous vous recommandons de consulter [The Markdown Guide](https://www.markdownguide.org/) pour apprendre à l'utiliser.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+**Remarque :** supprimez cette remarque ainsi que le contenu de cette section et remplacez-les par ce que vous avez personnellement appris.
 
-### Continued development
+### Développement continu
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Utilisez cette section pour indiquer les domaines sur lesquels vous souhaitez continuer à travailler dans vos futurs projets.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Il peut s'agir de concepts que vous ne maîtrisez pas encore complètement, ou de techniques que vous avez trouvées utiles et que vous souhaitez continuer à améliorer et à perfectionner.
 
-### Useful resources
+**Remarque :** supprimez cette remarque et remplacez-la par vos propres objectifs pour la suite.
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+### Ressources utiles
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Exemple de ressource 1](https://www.example.com) — Cette ressource m'a aidé pour telle ou telle raison. J'ai particulièrement apprécié cette méthode et je compte continuer à l'utiliser.
+- [Exemple de ressource 2](https://www.example.com) — Cet article est excellent et m'a finalement permis de comprendre telle ou telle notion. Je le recommande à toute personne qui souhaite encore apprendre ce concept.
 
-### AI Collaboration
+**Remarque :** supprimez cette remarque et remplacez cette liste par les ressources qui vous ont aidé pendant le challenge. Elles pourront également vous être utiles lorsque vous reviendrez sur ce projet plus tard.
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+### Collaboration avec l'IA
 
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
+Décrivez comment vous avez utilisé des outils d'IA, si vous en avez utilisé pendant ce projet.
 
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+Cela permet de montrer votre capacité à travailler efficacement avec des assistants IA.
 
-## Author
+- Quels outils avez-vous utilisés ? (Par exemple : ChatGPT, Claude, GitHub Copilot.)
+- Comment les avez-vous utilisés ? (Par exemple : pour déboguer, générer du code de base, trouver des idées ou des solutions.)
+- Qu'est-ce qui a bien fonctionné ? Qu'est-ce qui n'a pas fonctionné ?
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+**Remarque :** supprimez cette section et son contenu si vous n'avez pas utilisé d'IA, ou remplacez-les par votre propre expérience.
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+## Auteur
 
-## Acknowledgments
+- Site web — [Ajoutez votre nom ici](https://www.your-site.com)
+- Frontend Mentor — [@votreidentifiant](https://www.frontendmentor.io/profile/yourusername)
+- Twitter — [@votreidentifiant](https://www.twitter.com/yourusername)
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+**Remarque :** supprimez cette remarque et ajoutez, supprimez ou modifiez les lignes ci-dessus selon les liens que vous souhaitez partager.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+## Remerciements
 
+C'est ici que vous pouvez remercier les personnes qui vous ont aidé.
 
+Vous avez peut-être travaillé en équipe ou trouvé de l'inspiration dans la solution de quelqu'un d'autre. C'est l'endroit idéal pour leur donner du crédit.
 
-
-# Frontend Mentor - Solution pour le composant « code QR »
-
-Il s'agit d'une solution au [défi « composant code QR » sur Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Les défis de Frontend Mentor vous aident à améliorer vos compétences en programmation en réalisant des projets concrets.
-
-## Table des matières
-
-- [Présentation](#overview)
-  - [Capture d'écran](#screenshot)
-  - [Liens](#links)
-- [Ma démarche](#my-process)
-  - [Outils utilisés](#built-with)
-  - [Ce que j'ai appris](#what-i-learned)
-  - [Développement continu](#continued-development)
-  - [Ressources utiles](#ressources-utiles)
-  - [Collaboration avec l’IA](#collaboration-ia)
-- [Auteur](#auteur)
-- [Remerciements](#remerciements)
-
-**Remarque : supprimez cette remarque et mettez à jour la table des matières en fonction des sections que vous conservez.**
-
-## Présentation
-
-### Capture d'écran
-
-![](./screenshot.jpg)
-
-Ajoutez une capture d'écran de votre solution. Le plus simple est d'utiliser Firefox pour afficher votre projet, de faire un clic droit sur la page et de sélectionner « Prendre une capture d'écran ». Vous pouvez choisir entre une capture d'écran en pleine hauteur ou une capture recadrée, en fonction de la longueur de la page. Si celle-ci est très longue, il peut être préférable de la recadrer.
-
-Vous pouvez également utiliser un outil tel que [FireShot](https://getfireshot.com/) pour réaliser la capture d’écran. FireShot propose une version gratuite, vous n’avez donc pas besoin de l’acheter.
-
-Recadrez, optimisez ou modifiez ensuite votre image comme vous le souhaitez, ajoutez-la à votre projet, puis mettez à jour le chemin d’accès au fichier dans l’image ci-dessus.
-
-**Remarque : supprimez cette remarque et les paragraphes ci-dessus lorsque vous ajoutez votre capture d'écran. Si vous préférez
+**Remarque :** supprimez cette remarque et modifiez cette section selon vos besoins. Si vous avez réalisé ce challenge seul, vous pouvez simplement supprimer entièrement cette section.
